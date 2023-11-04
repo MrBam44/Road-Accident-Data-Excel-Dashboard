@@ -3,7 +3,7 @@
   This GitHub repository contains an interactive Excel dashboard for visualizing road accident data. The dashboard is designed to provide insights and help stakeholders make informed decisions regarding road safety. It includes various charts, graphs, and data analysis tools to make sense of the data.
 
 # DASHBOARD
-
+![Screenshot 2023-11-04 193126](https://github.com/MrBam44/Road-Accident-Data-Excel-Dashboard/assets/96383738/1994691c-c8b5-4e19-bc0f-6c64b3bb974d)
 
 # Requirement
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements
